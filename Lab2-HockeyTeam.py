@@ -13,6 +13,7 @@
 def main():
     # YOUR CODE STARTS HERE, each line must be indented (one tab)
     print()
+    print("something")
 
 
 
